@@ -1,0 +1,12 @@
+{
+  "name": "projeto-integrador-fullstack",
+  "version": "1.0.0",
+  "description": "Projeto Integrador GRAN: Fullstack",
+  "license": "ISC",
+  "author": "Paulo Roberto",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
