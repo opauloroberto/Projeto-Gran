@@ -20,7 +20,7 @@ function Fornecedor() {
             contatoPrincipal: contatoPrincipal
         };
     
-        fetch('http://localhost:8080/fornecedores', {
+        fetch('http://localhost:3000/fornecedores', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json'
